@@ -14,7 +14,9 @@
     b. The data is houses in three tables: users, trips, and trails. The data has datatype values of varchars and ints. The relationship that connects the tables is through the user_id found in users and trips and the trail_id found in trails and trips.
 
 5. Notebooks
-    a.
+    a. data_collection
+    b. sql_analysis
+    c. presentation 
 
 6. Future Improvements
     a. In the future the improvements would focus on a more in depth amount of data. i set the default trips to 1000 created entries and would take time to add more in order to get better results from the SQL queries asked of in this project. Additionally, I would simply add more queries to continue to practice and learn about the data I had. 
