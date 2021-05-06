@@ -16,8 +16,9 @@
 5. Notebooks
     a. data_collection : https://github.com/apoirie1/sql_project/blob/main/data_collection_Alexander_Poirier.ipynb 
         python script to access data from adalo API for users and trails, builds mock trips that are also inserted into the database
-    b. sql_analysis
-    c. presentation 
+    b. sql_analysis: https://github.com/apoirie1/sql_project/blob/main/sql_analysis.ipynb
+        SQL queries dealing with the inserted data. Does not include the schema to build the tables, trigger, or Stored procedure queries.
+    c. presentation: 
 
 6. Future Improvements
     a. In the future the improvements would focus on a more in depth amount of data. i set the default trips to 1000 created entries and would take time to add more in order to get better results from the SQL queries asked of in this project. Additionally, I would simply add more queries to continue to practice and learn about the data I had. 
