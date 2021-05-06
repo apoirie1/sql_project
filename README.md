@@ -20,10 +20,10 @@
         SQL queries dealing with the inserted data. Does not include the schema to build the tables, trigger, or Stored procedure queries.
     c. presentation: https://github.com/apoirie1/sql_project/blob/main/presentation.ipynb
         Merged previous notebooks to create a presentation to discuss findings from SQL queries on data from Inspire Outdoors
-    d. trigger.sql : https://github.com/apoirie1/sql_project/blob/main/Updated_Milestone01_data_collection.sql
+    d. Schema.sql:  https://github.com/apoirie1/sql_project/blob/main/Updated_Milestone01_data_collection.sql
+        SQL to create tables for the RDS. Creates three tables: useres, trails, and trips. Connected through user_id found in users/trips and trail_id found in trails/trips
+    e. trigger.sql : https://github.com/apoirie1/sql_project/blob/main/trigger.sql
         SQL to create trigger to keep a log of updated reviews when users adjust a review on a trip taken
-    
-   e.
     f.
     
 
