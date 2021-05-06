@@ -1,4 +1,4 @@
-# sql_project
+# IO_analytics
 1. Project Name: Inspire Outdoors Analytics
 
 2. Problem Objective:
