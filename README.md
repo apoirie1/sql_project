@@ -14,7 +14,8 @@
     b. The data is houses in three tables: users, trips, and trails. The data has datatype values of varchars and ints. The relationship that connects the tables is through the user_id found in users and trips and the trail_id found in trails and trips.
 
 5. Notebooks
-    a. data_collection
+    a. data_collection : https://github.com/apoirie1/sql_project/blob/main/data_collection_Alexander_Poirier.ipynb 
+        python script to access data from adalo API for users and trails, builds mock trips that are also inserted into the database
     b. sql_analysis
     c. presentation 
 
