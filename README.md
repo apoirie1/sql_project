@@ -20,6 +20,12 @@
         SQL queries dealing with the inserted data. Does not include the schema to build the tables, trigger, or Stored procedure queries.
     c. presentation: https://github.com/apoirie1/sql_project/blob/main/presentation.ipynb
         Merged previous notebooks to create a presentation to discuss findings from SQL queries on data from Inspire Outdoors
+    d. trigger.sql : https://github.com/apoirie1/sql_project/blob/main/Updated_Milestone01_data_collection.sql
+        SQL to create trigger to keep a log of updated reviews when users adjust a review on a trip taken
+    
+   e.
+    f.
+    
 
 6. Future Improvements
     a. In the future the improvements would focus on a more in depth amount of data. i set the default trips to 1000 created entries and would take time to add more in order to get better results from the SQL queries asked of in this project. Additionally, I would simply add more queries to continue to practice and learn about the data I had. 
