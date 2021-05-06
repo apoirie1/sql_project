@@ -24,7 +24,8 @@
         SQL to create tables for the RDS. Creates three tables: useres, trails, and trips. Connected through user_id found in users/trips and trail_id found in trails/trips
     e. trigger.sql : https://github.com/apoirie1/sql_project/blob/main/trigger.sql
         SQL to create trigger to keep a log of updated reviews when users adjust a review on a trip taken
-    f.
+    f. Stored Procedure.sql : https://github.com/apoirie1/sql_project/blob/main/Stored_Procedures.sql
+        SQL to make a stored procedure, loops through and returns a string of trails from a given overall rating. Will return a certain number of trails depending on the rating the user inputs into the stored procedure.
     
 
 6. Future Improvements
